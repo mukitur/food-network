@@ -16,32 +16,33 @@ h2{
     overflow: hidden;
     font-size: 20px;
     text-decoration: none;
-    padding-top: 30px;
+    padding-top: 40px;
 }
 .navigation  a{
     float: left;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    color: #000;
 }
 .navigation  a.hover {
-    color: #030303;
+    color: #ff9933;
   }
 
 .navigation  a.active {
-        color: #030303;
+        color: #ff9933;
       }
 
 .main-section-style{
     display: flex;
-    padding: 100px 65px 100px 70px;
+    padding: 70px 65px 100px 70px;
 }
 .width-50percent{
     width: 50%;
 }
 
 .specific-color{
-    color: #030303;
+    color:#ff9933;
 }
 .order-button{
     padding: 20px 40px;
