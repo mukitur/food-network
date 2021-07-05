@@ -9,6 +9,29 @@ h1{
 h2{
     font-size: 50px;
 }
+.fn-menu{
+    display: flex;
+}
+.navigation{
+    overflow: hidden;
+    font-size: 20px;
+    text-decoration: none;
+    padding-top: 30px;
+}
+.navigation  a{
+    float: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.navigation  a.hover {
+    color: #030303;
+  }
+
+.navigation  a.active {
+        color: #030303;
+      }
+
 .main-section-style{
     display: flex;
     padding: 100px 65px 100px 70px;
@@ -18,7 +41,7 @@ h2{
 }
 
 .specific-color{
-    color: #ff9933;
+    color: #030303;
 }
 .order-button{
     padding: 20px 40px;
