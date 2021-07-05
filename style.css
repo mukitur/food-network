@@ -16,6 +16,7 @@ h2{
 .width-50percent{
     width: 50%;
 }
+
 .specific-color{
     color: #ff9933;
 }
@@ -25,4 +26,10 @@ h2{
     background-image: linear-gradient(#ff9933, #ff3333);
     border-radius: 50px 50px;
     color: #fff;
+}
+.bg-image{
+    background-image: url(images/bg.png);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+
 }
