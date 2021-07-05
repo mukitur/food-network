@@ -31,5 +31,23 @@ h2{
     background-image: url(images/bg.png);
     background-repeat: no-repeat;
     margin-bottom: 100px;
+}
+.recipies{
+    display: flex;
+    padding: 7%;
+}
 
+.width-30percent{
+    width: 30%;   
+}
+.width-30percent img{
+    text-align: center;
+}
+.box-shadow{
+    margin-left:2%;
+    margin-right: 2%;
+    padding: 20px 15px 20px 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+    border-radius: 15px;     
 }
