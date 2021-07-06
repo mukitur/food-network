@@ -74,13 +74,27 @@ h2{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 15px;     
 }
+.search-section{
+    padding: 2%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 40px;
+    display: flex;
+}
+.search{
+    padding-left: 70px;
+}
+.search img{
+    margin-left: 10px;
+    width: 550px;
+    height: 80px;
+}
 footer{
     background-color: #000;
 }
 .footer-color{
     color: #fff;
     text-align: center;
-    padding-top: 50px;;
+    padding-top: 50px;
 }
 .footer-p{
     color: #fff;
